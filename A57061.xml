@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Right Honourable the Lord Mayor and Court of Aldermen in Guild-hall Chappel, on Sunday the xxi of October, 1688 by Nathanael Resbury ...</title>
+            <author>Resbury, Nathanael, 1643-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57061</idno>
+            <idno type="STC">Wing R1131</idno>
+            <idno type="STC">ESTC R36776</idno>
+            <idno type="EEBO-CITATION">16015176</idno>
+            <idno type="OCLC">ocm 16015176</idno>
+            <idno type="VID">104757</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57061)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104757)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1155:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Right Honourable the Lord Mayor and Court of Aldermen in Guild-hall Chappel, on Sunday the xxi of October, 1688 by Nathanael Resbury ...</title>
+                  <author>Resbury, Nathanael, 1643-1711.</author>
+               </titleStmt>
+               <extent>[5], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Kettilby ..,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew VI, 26 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:104757:1"/>
+            <opener>
+               <signed>
+                  <hi>Chapman Mayor,</hi> &amp;c.</signed>
+               <dateline>
+                  <hi>Cur. Special. tent.</hi>
+                  <date>
+                     <hi>die Dominica xxi. die October</hi> 1688. <hi>Anno<g ref="char:EOLhyphen"/>que Regis Jacobi Secundi Angl. &amp;c. quarto.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THis Court doth deſire Mr. <hi>Resbury</hi> to Print his Sermon Preached this Morning in the
+<hi>Guildhall</hi> Chappel, before the Lord Mayor and Aldermen of this City.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>IMPRIMATUR</p>
+            <closer>
+               <date>
+                  <hi>Octob.</hi> 22. 1688.</date>
+               <signed>
+                  <hi>Z. Iſham</hi> R. P. D. <hi>Hen.</hi> Epiſc. <hi>Lond.</hi> à Sacris.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:104757:1"/>
+            <p>A SERMON Preach'd before the RIGHT HONOURABLE THE Lord Mayor, AND <hi>Court of Aldermen,</hi> IN
+<hi>GUILD-HALL CHAPPEL.</hi> On <hi>Sunday</hi> the xxi. of <hi>October.</hi> 1688.</p>
+            <p>By <hi>NATHANAEL RESB<g ref="char:V">Ʋ</g>RY,</hi> Chaplain to the Right Honourable <hi>James</hi> Earl of
+<hi>Angleſey.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Kettilby</hi> at the Biſhops-Head in St. <hi>Paul</hi>'s Church-yard. 1689.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:104757:2"/>
+            <pb facs="tcp:104757:2"/>
+            <head>TO THE RIGHT HONOURABLE Sir <hi>Iohn Chapman</hi> Lord Mayor of the City of <hi>London,</hi> And to the <hi>Court of Aldermen.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Make bold to Preſent <hi>your Lordſhip</hi> and the <hi>Court of Aldermen,</hi> with a very plain Diſcourſe, which ſhould not have adventur'd this review, but in entire Obedience to <hi>your Lordſhip's</hi> and the <hi>Court's</hi> Commands for Publiſhing it. I confeſs it is a Noble Subject, and worthy every Man's Niceſt Obſervation and Wiſeſt thoughts. And <hi>your Lord<g ref="char:EOLhyphen"/>ſhip,</hi> with the whole Body of this <hi>Great
+<pb facs="tcp:104757:3"/>City.</hi> have become a freſh Inſtance in the Argument, in the late Effects of
+<hi>His Majeſty</hi>'s good will toward you, and your re-inſtatement into your <hi>Antient Priviledges and Immunities.</hi> So that, (ſince you have thought fit ſo to order it) be pleas'd to accept <hi>this</hi> as an hum<g ref="char:EOLhyphen"/>ble Congratulation.</p>
+            <p>May <hi>your Lordſhip,</hi> with the whole <hi>Body</hi> under your Government, prove happy Inſtruments in the Miniſtries of <hi>Providence,</hi> to promote and further that moſt Holy Religion in <hi>the Life and Practice,</hi> the <hi>Profeſſion</hi> and <hi>En<g ref="char:EOLhyphen"/>joyment</hi> of which, it hath hitherto pleas'd the <hi>Divine Hand,</hi> to aſſert and vindicate againſt all open or Clan<g ref="char:EOLhyphen"/>deſtine Attempts. It is the earneſt Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhip's Moſt Devoted, moſt Humble, and moſt Obedient Servant.</hi> N. Resbury.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:104757:3"/>
+            <head>A SERMON Preach'd before the Lord Mayor.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Matth. VI. 26.</hi>
+               </bibl>
+               <q>Behold the Fowles of the air, they ſow not, neither do they reap, nor gather into Barns; yet your Heavenly Father feedeth them; are not ye much better than they?</q>
+            </epigraph>
+            <p>THeſe Words are part of that Col<g ref="char:EOLhyphen"/>lection of diſcourſes, with which our Saviour entertain'd his Diſci<g ref="char:EOLhyphen"/>ples in the Mount: wherein, after having
+<pb n="2" facs="tcp:104757:4"/>laid down many and moſt excellent Inſtru<g ref="char:EOLhyphen"/>ctions about a good life: about the nature and manner of performing that great Duty of Prayer, <hi>&amp;c.</hi> He enters upon that moſt encouraging ſubject of Divine Providence, and the immediate Care that God hath o<g ref="char:EOLhyphen"/>ver them, ſufficient to quiet and lay aſleep all thoſe Fears and Preſages they might have, about the great Straits and Diſſicul<g ref="char:EOLhyphen"/>ties of Life they might expect to be reduc'd to, through the Rage and Spight of their Enemies, enflam'd and embitter'd againſt them, upon the account of that
+<hi>New Reli<g ref="char:EOLhyphen"/>gion</hi> they were then to advance in the World.</p>
+            <p>
+               <hi>Therefore I ſay unto you, take no thought for your life, what you ſhall eat, or what you ſhall drink; nor yet for your Body what you ſhall put on; Is not the life more than meat, and the body than raiment? Behold the Fowles of the air,</hi> &amp;c.</p>
+            <p>In the words we have theſe three Obſer<g ref="char:EOLhyphen"/>vables.</p>
+            <p n="1">1. The Concern that Divine Providence hath in the ſmalleſt Contingencies in this World. The very <hi>Fowles of the air</hi> are fed
+<pb n="3" facs="tcp:104757:4"/>by his hand. <hi>Behold the Fowles of the air,</hi> &amp;c.</p>
+            <p n="2">2. Much more the concern it hath in all Humane Affairs. <hi>Are ye not much better than they?</hi>
+            </p>
+            <p n="3">3. Moſt of all in the Well-being of his Church: This I obſerve, by conſidering thoſe to whom our Saviour directs his diſ<g ref="char:EOLhyphen"/>courſe, not only <hi>as men,</hi> but as <hi>his Follow<g ref="char:EOLhyphen"/>ers;</hi> and thoſe whom he deſign'd to adopt and conſtitute as <hi>his Church.</hi> Of theſe as briefly as may be; in their Order.</p>
+            <p n="1">1. Conſider we that Concern that Divine Providence hath in the ſmalleſt Contingen<g ref="char:EOLhyphen"/>cies in this World. <hi>Behold the Fowles of the air,</hi> &amp;c. Our Saviour is preaching to them upon the Mount, and in the open air; and therefore probably took the oc<g ref="char:EOLhyphen"/>caſion from things that were in their pre<g ref="char:EOLhyphen"/>ſent view to treat his Audience, that by ſuch familiar inſtances he might render him<g ref="char:EOLhyphen"/>ſelf more uſeful, and his diſcourſes more impreſſive upon them. Thus, in this place, he obſerves from the flight of the <hi>Birds</hi> o<g ref="char:EOLhyphen"/>ver them, the influence that Providence hath in feeding them; and a little after<g ref="char:EOLhyphen"/>ward, from the proſpect of the Fields and
+<pb n="4" facs="tcp:104757:5"/>Meadows below them, he exemplifies upon the ſame argument; and from the verdure and beauty of the Fields and Lillies which the Divine Hand cloaths and adorns, he gives them encouragement to expect cloathing from God, <hi>v.</hi> 28.29. <hi>Conſider the Lillies of the field, how they grow; they toil not, neither do they ſpin; and yet I ſay unto you, that Solomon in all his Glory was not ar<g ref="char:EOLhyphen"/>ray'd like one of theſe: wherefore, if God ſo cloath the graſs of the field, which to day is, and to morrow is caſt into the Oven; ſhall he not much more cloath you, O ye of little Faith?</hi>
+            </p>
+            <p>Here I might undertake the proof of Divine Providence, againſt the <hi>Epicureans</hi> of old, and the <hi>Infidels</hi> of this preſent Age; but I ſhall rather chuſe to ſuppoſe the thing, and ſpend that time I have in illuſtrating the Argument, believing that ſome uſeful Meditations upon ſo comfortable a Sub<g ref="char:EOLhyphen"/>ject, may (in this place where Providence is (I hope) Univerſally believ'd, and per<g ref="char:EOLhyphen"/>petually experimented) be more proper and ſeaſonable.</p>
+            <pb n="5" facs="tcp:104757:5"/>
+            <p>And thus we may obſerve, throughout the whole Scriptures, <hi>this</hi> aſcrib'd to Di<g ref="char:EOLhyphen"/>vine Providence, as feeding and ſuppor<g ref="char:EOLhyphen"/>ting the meaneſt of Creatures, that <hi>his tender mercies are over all his works,</hi> Pſ. 145.9. that <hi>he openeth his hand, and ſatisfieth the deſire of every living thing,</hi> v. 16. that <hi>he giveth to the Beaſt his food, and to the young Ravens that cry,</hi> Pſ. 147.9. That the Snow, the Froſt, the Winds, and the Waters are gender'd, do melt or flow, according to the directions of his Word, <hi>ibid.</hi> v. 16, 17, 18. Nay, our Saviour adds, that tho' <hi>two Sparrows</hi> are ſold in the Market for one Far<g ref="char:EOLhyphen"/>thing, yet not one of them falls to the ground without the appointment of Provi<g ref="char:EOLhyphen"/>dence; and from thence argues the encou<g ref="char:EOLhyphen"/>ragement his Followers might have againſt all needleſs and unreaſonable fears, <hi>Mat.</hi> 10.29, 30. And indeed, this, the Immenſity of that Being, to whom we aſcribe ſo Univerſal a Providence, ſecures us effectu<g ref="char:EOLhyphen"/>ally in. So immenſe and boundleſs is his Nature, that he fills all places at the ſame inſtant, and beholds all things (as the Schoolmen expreſs it well enough) <hi>uno actu
+<pb n="6" facs="tcp:104757:6"/>&amp; intuitu,</hi> with one act of his Almighty Eye. So that as he had the Ideas of all things to which he deſign'd to give a Being, in his own great and comprehenſive mind, a long Eternity before he ſuffer'd them to be produc'd; and this without any tra<g ref="char:EOLhyphen"/>vel or burden upon his thoughts; ſo does he ſtill obſerve all Things, and interpoſe in all Events, without any encumbrance of Buſineſs upon himſelf, becauſe he is every where, and ſees every thing, not ſucceſſively, or one ſpace of time after another, as we are fain to do, but at the ſame inſtant moment continually. And well it is for the World indeed, that it hath this Im<g ref="char:EOLhyphen"/>menſe and Boundleſs Nature to depend upon, that <hi>this</hi> ſhould have its influence upon the leaſt and meaneſt of things, in the government and diſpoſure of all their Natural Motions, for otherwiſe the very <hi>Species</hi> of things could not be long pre<g ref="char:EOLhyphen"/>ſerv'd. Such are the Natural Antipathies that ſome things have againſt one the other; ſuch the Natural Tendencies in other things to conſume and deſtroy themſelves, that, unleſs Providence ſhould have its per<g ref="char:EOLhyphen"/>petual
+<pb n="7" facs="tcp:104757:6"/>Influence, in directing a Subſervi<g ref="char:EOLhyphen"/>ency of one thing to another, in over-ru<g ref="char:EOLhyphen"/>ling Sympathies and Antipathies, in Mini<g ref="char:EOLhyphen"/>ſtring freſh Supplies for prevention of Decays, Nature might quickly ſpend it ſelf off, and the whole World ſoon run into that Confuſion and Jumble, which ſome have fanci'd was its firſt and an<g ref="char:EOLhyphen"/>tient Original. There are not the ſmalleſt and minuteſt Cauſes of Things, but they have that intereſt in the great Chain and dependence of the whole, that were not theſe ſmalleſt things within the Concern and Management of Providence, the whole could not ſubſiſt. Hence <hi>Plato,</hi> upon this Argument, demonſtrates, by the Examples of a Phyſician and a Mariner, how ne<g ref="char:EOLhyphen"/>ceſſary it is for the Preſervation of the whole, that there ſhould be a wiſe and univerſal Inſpection into the ſmalleſt parts. Thus the Phyſician, did he not obſerve and obviate the diſorders in the Blood, or the leaſt peccancy of Humour that diſturbs and diſ<g ref="char:EOLhyphen"/>eaſeth his Patient, he might diſcourſe never ſo Learnedly of the Nature of Diſeaſes, of the Compoſure of the Body, and the Pro<g ref="char:EOLhyphen"/>priety
+<pb n="8" facs="tcp:104757:7"/>of this or that Medicament, and yet the Sick Man falls under the burden of his Diſtemper into the Grave. So again, ſhould not the Mariner make it his care, that every the leaſt part of his Ship might be ſecur'd from leekage or foundring, he might run over all the Points of his Com<g ref="char:EOLhyphen"/>paſs with a great deal of accuracy, he might tell of the poſition of ſuch or ſuch a Rock or Quick-ſand never ſo punctu<g ref="char:EOLhyphen"/>ally, and in all other things foreſee and provide againſt a Storm never ſo dex<g ref="char:EOLhyphen"/>trouſly, and yet ſink in a fatal wreck thro' the crazineſs of any one part: From whence (ſaith that Excellent <hi>Philoſopher</hi>) it is un<g ref="char:EOLhyphen"/>worthy of God to think, that he, who thro' an Infinite Underſtanding can take care of all things, ſhould not by a wiſe inſpection into ſmaller things, direct the Influence they have for the preſervation of the whole.</p>
+            <p n="2">2. Come we to conſider; That if Divine Providence concerns it ſelf in the ſmalleſt Contingencies in this World; how much more doth it in all Humane Affairs? <hi>Are not ye much better than they?</hi> And ſo we find the
+<pb n="9" facs="tcp:104757:7"/>nature of the Argument is that which we call <hi>a minori ad majus.</hi> If concern'd in the leſs, much more in the greater. <hi>Is not the Life more than Meat, and the Body than Rayment? i. e.</hi> If Providence hath con<g ref="char:EOLhyphen"/>cern'd it ſelf to give you a Life, can he not with more Eaſe and Likelihood give you Food? If he have Fram'd ſo goodly a Structure as the Body, can he not pro<g ref="char:EOLhyphen"/>vide Clothing too? In purſuance of this, we may obſerve, Firſt, how it pleaſes God to repreſent himſelf, as ſhewing his re<g ref="char:EOLhyphen"/>gards to the Pooreſt and Meaneſt Station of Mankind, that hath been ever yet Created; Much more then, Secondly, may we ſuppoſe him, ſuperintending the Affairs of whole Nations and Communi<g ref="char:EOLhyphen"/>ties of Men, and thoſe whom he hath Ordain'd as his Vicegerents therein.</p>
+            <p n="1">1. He hath ſhewn his Regards to the very pooreſt and loweſt Degree of Hu<g ref="char:EOLhyphen"/>mane Nature; this we may obſerve in the Judicial Laws of his own framing amongſt the <hi>Jews;</hi> he hath provided that the Glean<g ref="char:EOLhyphen"/>ings of every Years Harveſt and Vintage, ſhould be of that Competency, as to be<g ref="char:EOLhyphen"/>come
+<pb n="10" facs="tcp:104757:8"/>a ſufficient ſupport to them, <hi>Levit.</hi> 19.9, 10. where we find, at the end of that Law, this Sanction particularly, <hi>I am the Lord your God, i. e.</hi> I am both their and your Lord God; who own them as well as you under my Care and Government. I might inſtance further in that Law of <hi>the Sabbatical Year,</hi> wherein Proviſion was made, that the Land ſhould have no Til<g ref="char:EOLhyphen"/>lage, but of its voluntary Fruits, (which in Oliveyards and Vineyards might be very conſiderable) and of the ſhedded Seeds of Corn, (which in thoſe Countries might without Labour come to an eaſy Maturity) abundant Proviſion might ariſe to the Poor who were in common to Enjoy it, <hi>Levit.</hi> 23.10, 11.</p>
+            <p>And as he takes care for their Maintenance, ſo for their Defence too; in thoſe ſevere Laws againſt their Oppreſſion, either in withholding their Wages, or rigidly ex<g ref="char:EOLhyphen"/>acting too great a Pledge in their Neceſſity of Borrowing; or giving a juſt Cauſe againſt them to a Wealthy or Powerful Adverſary; but I muſt not be too large here: However, I cannot but add under
+<pb n="11" facs="tcp:104757:8"/>this Head, that in the firſt Revelations of the Goſpel, the Bleſſed Founder of Chri<g ref="char:EOLhyphen"/>ſtianity it ſelf, put himſelf into that Rank and Station; choſe out his Apoſtles from among Poor Fiſhermen; made the Lame and Blind (and thoſe too Begging by the High-Way ſide) the main Subjects of his Divine Miracles. Nay, this he made the Character of himſelf as the true Meſſiah, to thoſe who were ſent to enquire concern<g ref="char:EOLhyphen"/>ing him from
+<hi>John Baptiſt, the Blind re<g ref="char:EOLhyphen"/>ceive their ſight,</hi> &amp;c. <hi>and to the Poor the Goſpel is Preached, Mat.</hi> 11.5. In a word, 'tis the Poor to whom our Kindneſs or Chur<g ref="char:EOLhyphen"/>liſhneſs in this World, will be made the great Standard of Judgment, in that Awful Day of our General Appearance at the Bar of God, <hi>Mat.</hi> 25.45. <hi>Inſomuch as ye did it not to one of the leaſt of theſe, ye did it not to me.</hi>
+            </p>
+            <p n="2">2. If he hath ſhewn his Regards to the Pooreſt and Loweſt Degrees of Humane Nature, much more then to whole Na<g ref="char:EOLhyphen"/>tions and Communities of Men, to over<g ref="char:EOLhyphen"/>rule all the Paſſions, Affections, the Love, the Hatred, the Ambition, the Cou<g ref="char:EOLhyphen"/>rage,
+<pb n="12" facs="tcp:104757:9"/>the Power, the Deſigns, and the In<g ref="char:EOLhyphen"/>tereſts of Mankind, upon which the Hinge of all Humane Affairs do turn; ſo that <hi>this</hi> Community of People ſhould be Pre<g ref="char:EOLhyphen"/>ſerv'd and Flouriſh, the <hi>other</hi> ſhould Decay and Dwindle, Periſh, and be Overturn'd according to the Pleaſure of his Will. He hath the very Hearts of Kings, his Im<g ref="char:EOLhyphen"/>mediate Vice-Gerents, in his hands, <hi>to turn them as the Rivers of Waters, which way himſelf pleaſeth.</hi> He raiſeth ſome up for the Defence and Protection of his Truth and Intereſts in the World, and others, to ſhew his <hi>own power upon them,</hi> in the violent Effects of
+<hi>their</hi> Obſtinacy and Per<g ref="char:EOLhyphen"/>verſeneſs, and his Vengeance; as he is pleas'd himſelf to tell us in that Inſtance of <hi>Pharaoh, Exod.</hi> 9.16. This is very evi<g ref="char:EOLhyphen"/>dent in all thoſe Revelations of himſelf, which he made to his <hi>Prophets,</hi> pointing out ſo long beforehand, the Raiſing and Eſtabliſhing <hi>ſuch</hi> Kings and Kingdoms, Enlarging and Amplifying <hi>ſuch</hi> Thrones and Empires, pulling down and Abo<g ref="char:EOLhyphen"/>liſhing others; the Hiſtories of which when we Read and Conſult, if we look indeed
+<pb n="13" facs="tcp:104757:9"/>no higher, we may obſerve the various workings of Mens Paſſions, the Courage of ſome, and the Cowardiſe of others; the ſtrange Viciſſitudes of Fortunes in all: the wondrous mutability of Humane Af<g ref="char:EOLhyphen"/>fairs, the uncertain Condition of the High<g ref="char:EOLhyphen"/>eſt, and of the Loweſt too. But then, look we into the Books of the Prophets, and there we find the immediate intereſt that Providence hath in all; four hundred years before pointing out a ſpot of ground wherein the <hi>Iſraelites</hi> ſhould be fixt, and what kind of Nations ſhould be rooted out to give them room; calling the very Perſon by name, whom he deſign'd to make a Great and Illuſtrious Emperour, two hundred years before that Perſon had any Being.</p>
+            <p>Thus we find in <hi>Iſaiah,</hi> who flouriſht 200 years before <hi>Cyrus</hi> was born,
+<hi>that ſaith of Cyrus he is my Shepherd, Iſa.</hi> 44.28. And this he challengeth to himſelf, beyond the pretences of all other Gods. <hi>Who hath de<g ref="char:EOLhyphen"/>clared this from ancient time? who hath told it from that time, have not I the Lord?</hi> Iſa. 45.21.</p>
+            <pb n="14" facs="tcp:104757:10"/>
+            <p>And tho' in theſe later. Ages of the World, we have perhaps no Prophets, nor Sons of Prophets, amongſt us; yet have we one ſtanding Book of <hi>Revelations,</hi> wherein the Fate and Revolution of the Church, and of the World, is unalterably determin'd and deſcrib'd; where the Viciſſitudes of our own Age may be read in the Event, tho' perhaps not ſo well underſtood before-hand in the Prediction it ſelf. Where the Apo<g ref="char:EOLhyphen"/>ſtacy, the Idolatry, the Ambition, the ex<g ref="char:EOLhyphen"/>ternal Splendor, and the Bloody Tyranny of the Church of <hi>Rome,</hi> is no doubt one great Subject of that Myſtick Volume; which how dark and obſcure ſoever it hath formerly ſeem'd, and may yet ſeem, as to things that are not yet come to paſs; yet the Events of Things give light into the <hi>Prophecy,</hi> wherein they are concern'd, and aſſure us what an hand and direction Divine Providence hath had in all, and confirming to us that mighty foundation of Hope; that, as it hath pleas'd God, according to his Predictions of old, to throw his Church into a warm Furnace of Affliction for ſome Ages, yet that ſhe ſhall
+<pb n="15" facs="tcp:104757:10"/>come out like try'd Gold, and Triumph in all her determin'd Glory, over all her Bloody and Inſatiable Enemies. And this leads me to my Third and laſt Head, which I ſhall briefly Conſider.</p>
+            <p n="3">3. That Divine Providence is moſt aſſu<g ref="char:EOLhyphen"/>redly concern'd in the Well-being of his Church. This I obſerve, by conſidering thoſe to whom our Saviour directs his Diſcourſe; not meerly as <hi>Men</hi> in General, but as his <hi>Followers,</hi> and thoſe whom he deſign'd to Adopt and Conſtitute as his Church. Indeed, his whole management of this World, his turning and overturn<g ref="char:EOLhyphen"/>ing, his raiſing up ſome, and putting o<g ref="char:EOLhyphen"/>thers down, is all with peculiar reſpect to that part of Mankind, which he calls his Church. It is for her chaſtiſement and cor<g ref="char:EOLhyphen"/>rection, for her proſpering and encourage<g ref="char:EOLhyphen"/>ment, for her amendment and reforma<g ref="char:EOLhyphen"/>tion, for her encreaſe and accompliſhment, that all the great Affairs and Revolutions of this World, are directed by God. The Church is his immediate Care in all the applications of Providence in his Govern<g ref="char:EOLhyphen"/>ment of the World. This may appear,</p>
+            <pb n="16" facs="tcp:104757:11"/>
+            <p n="1">1. From that endearing relation he hath pleas'd to own and challenge to himſelf with this part of Mankind. He calls them ſometimes <hi>his Children,</hi> ſometimes his
+<hi>Pe<g ref="char:EOLhyphen"/>culiar People,</hi> ſometimes <hi>his Inheritance,</hi> ſometimes <hi>his Spouſe;</hi> nay, and ſometimes the <hi>very Apple of his Eye:</hi> all which muſt give them undeniable aſſurance, that God leaves not ſuch, ſo nearly intereſted with him, to the wide World, to blind Chance, or to fortuitous ſurprizals of calamity and trouble befalling them; upon no other account, but becauſe it is the Luſt and Will of their Enemies it ſhould be ſo. No, the bleſſed Lord of all, hath engag'd the Miniſtry of his Angels for their Protection and Guardianſhip, that they are ſaid <hi>to pitch their Tents round about thoſe that fear God,</hi> Pſal. 34.7. He hath told us that <hi>they are Miniſtring Spirits, ſent forth to Miniſter to them who are the heirs of Sal<g ref="char:EOLhyphen"/>vation, Heb.</hi> 1. <hi>ult.</hi> All which is no mean inſtance of the Care he hath for, and the Concern he hath with them. But then,</p>
+            <p>Secondly, it might be further illuſtra<g ref="char:EOLhyphen"/>ted, from the actual Experiences the Church
+<pb n="17" facs="tcp:104757:11"/>hath in all Ages had of the Interpoſures of this Providence in its greateſt extremi<g ref="char:EOLhyphen"/>ties. This indeed, might run me into an Hiſtory of the Church, which would far exceed the bounds of the time I now have. I will only obſerve to you, that both the Hiſtory of the Scriptures, and other Books of Record handed down to us to this ve<g ref="char:EOLhyphen"/>ry day, do give us ſuch memorable in<g ref="char:EOLhyphen"/>ſtances, of ſtrange and unaccountable De<g ref="char:EOLhyphen"/>liverances in the near and immediate dan<g ref="char:EOLhyphen"/>gers that have ſeem'd to threaten an una<g ref="char:EOLhyphen"/>voidable Overthrow; that they have Pro<g ref="char:EOLhyphen"/>claim'd the Finger of God in all; none but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, none but the ever-wakeful Care, none but the Almighty Power could have accompliſht them. This very Church which it hath pleaſed God to Reform and Eſtabliſh amongſt us; what Stories have we to tell, what Footſteps and Impreſſions hath it pleas'd Divine Providence to leave, even amongſt us, of its care and vigilancy, when the enrag'd and implacable Enemies have thought they had laid their Contri<g ref="char:EOLhyphen"/>vances ſo deep, that no Eye could have pierc'd to the bottom of them; ſo ſtrong,
+<pb n="18" facs="tcp:104757:12"/>that no Arm could have broken them; with ſuch precaution and fore-ſight, that no length of Time ſhould have weaken'd or defeated them: But (that I may uſe the Expreſſion of the Apoſtle) <hi>he hath deli<g ref="char:EOLhyphen"/>ver'd us, and doth deliver, in whom alſo we truſt that he will yet deliver us.</hi> To ſay the truth, conſidering that reſtleſs and unweary'd Rage and Inveteracy of ſuc<g ref="char:EOLhyphen"/>ceſſive Enemies from one Age to another, the combin'd and confederated intereſts of the greater part of Mankind, againſt what may always challenge the name of <hi>a little Flock;</hi> it is no mean inſtance of Providence that there is ſuch a Community <hi>as his Church</hi> in Being in the World: To ſee how this toſt and weather-beaten Veſſel, hath liv'd ſo many Ages in the midſt of a Tem<g ref="char:EOLhyphen"/>peſtuous Sea, where ſhe hath ſprung many a Leak, loſt her Tackle, and frequently been upon the very point of Foundring by meer ſtreſs of Weather; the Winds and the Waves in mutual contention which ſhould moſt effectually contribute to the Shipwrack; what account can be given why ſhe had not been loſt before this?
+<pb n="19" facs="tcp:104757:12"/>but the interpoſure of Providence; who, that he might convince the World, that it is his Hand in all this, hath frequently turn'd what have been the deſign'd Me<g ref="char:EOLhyphen"/>thods of her ruine, to prove the imme<g ref="char:EOLhyphen"/>diate Occaſions of her Salvation and De<g ref="char:EOLhyphen"/>liverance: Nay, hath made the very blood of ſome to become the ſeed and propa<g ref="char:EOLhyphen"/>gation of others.</p>
+            <p>
+               <hi>Object.</hi> And this lays in our way the grand Objection that hath been frequently made, and ſometimes by the very beſt of men; <hi>viz.</hi> Not only that <hi>all things hap<g ref="char:EOLhyphen"/>pen alike to all, there is one event to the Righteous, and to the Wicked,</hi> &amp;c. But that frequently it pleaſeth God to order it, that the Scenes of the Wicked are all proſ<g ref="char:EOLhyphen"/>perous and gay in this World, whilſt thoſe of Good Men, thoſe who are call'd and entituled God's Church and peculiar Peo<g ref="char:EOLhyphen"/>ple, are all cloudy and diſcouraging; the one ſeeming to have been made only as Sheep for the others ſlaughtering. This once almoſt ſtagger'd even <hi>David</hi>'s Faith, and put the Prophet <hi>Jeremy</hi> upon the arguing point with God. As for me (ſaith <hi>David</hi>)
+<pb n="20" facs="tcp:104757:13"/>
+               <hi>my feet were almoſt gone, my ſteps had well nigh ſlipt, for I was envious at the Fooliſh, when I ſaw the Proſperity of the Wicked,</hi> Pſ. 73.2, 3.
+<hi>Righteous art thou, O Lord (ſaith Jeremy) when I plead with thee; yet let me talk with thee of thy judgements, wherefore doth the way of the Wicked proſper, where<g ref="char:EOLhyphen"/>fore are all they happy which deal very trea<g ref="char:EOLhyphen"/>cherouſly?</hi> Jer. 12.1. As to this we are to Conſider,</p>
+            <p n="1">1. That the Afflictions even of Good Men, are oftentimes the fruits of their own do<g ref="char:EOLhyphen"/>ings. There are many Promiſes for ſecu<g ref="char:EOLhyphen"/>ring the good man's well-being even in this World, which as they have their ſe<g ref="char:EOLhyphen"/>veral Conditions, ſo no queſtion would be more illuſtriouſly accompliſh'd <hi>here,</hi> did they not themſelves by their own follies make them void, and of no effect. Thus their Poverty is ſometimes the chaſtiſement of their Pride and Covetouſneſs; their Reproach and Contempt a juſt Recom<g ref="char:EOLhyphen"/>pence to their own peeviſhneſs, ſevere and affected diſtances, and the ill uſage of o<g ref="char:EOLhyphen"/>ther mens good Names. Thus
+<hi>Prov.</hi> 11. ult. <hi>Behold the Righteous ſhall be Recom<g ref="char:EOLhyphen"/>penced
+<pb n="21" facs="tcp:104757:13"/>in the Earth, much more the <g ref="char:V">Ʋ</g>ngodly and the Sinner.</hi> So that, as to theſe preſent Fruits which they reap of their own Fol<g ref="char:EOLhyphen"/>lies, it is ſo far from bringing into Queſti<g ref="char:EOLhyphen"/>on the Care or Concern of Providence, that it enforces the Argument, and adds to the Demonſtration; it ſhews how careful and vigilant a Father they are Govern'd by, that will by ſeaſonable Chaſtiſements reduce their Wandrings, and by a timely Diſci<g ref="char:EOLhyphen"/>pline prevent their undoing themſelves. <hi>By this ſhall the Iniquity of Jacob be purg'd, and this is all the Fruit to take away ſin,</hi> Iſa. 27.9. <hi>Whom the Lord loveth, he chaſte<g ref="char:EOLhyphen"/>neth, and ſcourgeth every Son whom he recei<g ref="char:EOLhyphen"/>veth, Heb.</hi> 12.6. The Church it ſelf may at ſome times need this kind of handling, as the Gold doth the Furnace, a Wound its Corroſives, or a Child the Rod: And it is ſo far from giving us any reaſonable ground to miſtruſt Providence, while he permits his Church to fall under the ſeverities of its Enemies, that it argues his greater Care, juſt as it doth the Wiſdom and Concern of a Father, when he makes his Child ſmart un<g ref="char:EOLhyphen"/>der the correction of a Fault. However,</p>
+            <pb n="22" facs="tcp:104757:14"/>
+            <p>Secondly, His Providence doth ſo effe<g ref="char:EOLhyphen"/>ctually ſuperintend the Affairs of the Church, that it doth moſt aſſuredly over<g ref="char:EOLhyphen"/>rule in the Events of things, that the Iſſue ſhall be good; and this anſwers the whole Objection, <hi>We know</hi> (ſaith the Apoſtle) <hi>that all things ſhall work together for the good of thoſe that love God,</hi> Rom. 8.28. This we may depend upon as an undoubted Truth, that all Things without us, Things which we have no Power over, nor can any ways Order or Influence our ſelves, theſe certainly, how Dark and Unintelligible, how Contrary and Diſcouraging ſoever they may ſeem at preſent to us, yet ſuch is the Care and Indulgence of Providence toward all <hi>His,</hi> that they ſhall conſpire to<g ref="char:EOLhyphen"/>gether in the End for their real Good; that is, that it ſhall be really better for us, that ſuch or ſuch were the circumſtances of our Lives, than if they had been otherwiſe, or as we had propounded to our ſelves. What if we our ſelves ſhould Dye off in a State of Affliction, and not out-live the Storm, which it may pleaſe God to raiſe in our own Age; yet may our particular
+<pb n="23" facs="tcp:104757:14"/>ſevere Allotments, have ſome conſiderable tendency to the well being of the General, in the preſent or ſucceeding Generation? We are not to limit the Iſſues of Providence to the bounds of our own time, for that may be upon the Wheel now, that may not be wrought off till ſome Ages hence; and yet what is at this time befalling his Church, may have its immediate conduciveneſs to that laſt upſhot; and all this, becauſe in the Management of that Infinite Providence, to whom <hi>one day is as a thouſand years, and a thouſand years as one day,</hi> 2 <hi>Pet.</hi> 3.8. What did all the Rage and Spight againſt the Pri<g ref="char:EOLhyphen"/>mitive Church ſignifie, (tho' then but a little Flock) but to add to its Numbers, and encreaſe its Intereſt in the World? the In<g ref="char:EOLhyphen"/>nocent Lives and the Heroick Deaths of the firſt Profeſſors, won upon By-Standers, and oftentimes provok'd them in a Rapture, to leap out of Infidelity into a Bleſſed Martyr<g ref="char:EOLhyphen"/>dom; till at length the <hi>Roman</hi> Empire it ſelf, weari'd with its own inſignificant Cruelties, ſubmitted to the Religion it had ſo long purſu'd with Rage and Barbariſm. What did all the Severities exercis'd in Queen <hi>Mary</hi>'s
+<pb n="24" facs="tcp:104757:15"/>days prove, but that, as the Baniſhment of ſome, iſſu'd in the Promotion and En<g ref="char:EOLhyphen"/>largement of the <hi>Reform'd</hi> Religion abroad; ſo did the Exemplary Courage of others in the Flames here, introduce the Univerſal Profeſſion of it in this Kingdom! which I truſt in God will never be rooted out more. Even particular Perſons have ſo far out<g ref="char:EOLhyphen"/>liv'd their own Sorrows, as to ſee and own that their Afflictions were the happy Mi<g ref="char:EOLhyphen"/>niſtries to their real well-being. Thus <hi>David</hi> reflects, <hi>It is good for me that I have been afflicted.</hi> And it is not conceivable, what an united Song to Providence, the mighty Quire of Happy Souls will be compoſing in Heaven, when they look back upon all the different paſſages of their Lives, upon all the mis-judg'd Appearances of this World, which they once Mourn'd and Repin'd under, when they ſee plainly what a tendency every thing that befell them had, to Qualifie them for that State: It is an excellent Ex<g ref="char:EOLhyphen"/>preſſion, a Good and Learned Man hath,
+<hi>nemo judicet de operibus dei, ante quintum actum.</hi> It is no good judging of the Plot till the Play be done. It is the laſt Act that
+<pb n="25" facs="tcp:104757:15"/>diſcovers all the Intricacies, and brings all the odd and ſurprizing Paſſages to a plea<g ref="char:EOLhyphen"/>ſing and joyous concluſion. And now, I ſhall conclude with an uſeful Reflection or two upon the whole.</p>
+            <p n="1">1. That we would hence learn to make it ſome part of our Buſineſs in the World, to be obſerving the Beauties of Providence. It was for this end that God made the World, and for this very end that he ſtill interpoſes in the Affairs of it, that he might gain from the Rational part of his Crea<g ref="char:EOLhyphen"/>tion, thoſe juſt Revenues of Praiſe that are due to all the effects of his Wiſdom, Good<g ref="char:EOLhyphen"/>neſs, Power, Juſtice, and Majeſty, which he ſo viſibly Multiplies upon us every day. It is an Excellent Reflection which the Mora<g ref="char:EOLhyphen"/>liſt (tho' an Heathen) makes,
+<q rend="margQuotes">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> If we have our Wits and Reaſon about us, what would become us more than to praiſe the Deity, to ſpeak well of him, and to give him thanks. Ought not (ſaith he) the Gardiner when Digging, and the Husbandman when Plowing his Ground, be ſtill ſinging this Hymn, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> great is that God, that hath furniſht us with theſe Inſtruments to Till the Ground, that hath
+<pb n="26" facs="tcp:104757:16"/>ſupply'd us with theſe Hands to labour out our Food and Support, but moſt of all, that hath endu'd us with Reaſon to Underſtand and Conſider this, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Since then I have Reaſon, I will praiſe my God as becomes me,
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and I do exhort you all to join Conſort with me in the ſame Song of Praiſe.</q> It was worth the Tranſcribing, to ſhew how Noble a Reſolution an Heathen could take up, of Praiſing his Maker in the Contem<g ref="char:EOLhyphen"/>plation of Providence, a Copy the Chri<g ref="char:EOLhyphen"/>ſtian need not be aſham'd to write after. And certainly, nothing could be a more de<g ref="char:EOLhyphen"/>lightſom Employment, than to buſie our Minds in comparing things with things, and tracing the Footſteps of Divine Wiſ<g ref="char:EOLhyphen"/>dom and Goodneſs in the various Effects of differing Cauſes, and viewing the Beauty and Harmony that is in all at laſt. When this vaſt Fabrick of the World was firſt A<g ref="char:EOLhyphen"/>dorn'd and Finiſh'd from its rude and miſhapen Maſs, <hi>then the Morning Stars ſang together, and all the Sons of God ſhouted for joy, Job</hi> 38.7. For all that God had made was very Good: Let us then be alwaies bringing up the <hi>Chorus,</hi> that as all Things he hath made are Good, ſo all that he hath ſince
+<pb n="27" facs="tcp:104757:16"/>done is Adorable and Praiſe-worthy; when we conſider what Order hath been main<g ref="char:EOLhyphen"/>tain'd, what great things have been all along brought to paſs by hidden and improbable Means, we may juſtly break out frequently with that of the Pſalmiſt, <hi>the Lord reigneth, let the Earth rejoyce, and the multitude of the Iſles be glad thereof.</hi>
+            </p>
+            <p n="2">2. But withal let us eſpecially be careful, ſo to behave our ſelves toward Providence, as to Entitle our ſelves to his Peculiar Care, that he may concern himſelf to over-rule all things for our Real Good. This Do<g ref="char:EOLhyphen"/>ctrine of Providence hath a twofold pro<g ref="char:EOLhyphen"/>ſpect. The Light Side of the Cloud opens it ſelf, towards thoſe that have the Conſci<g ref="char:EOLhyphen"/>ence of Serving and Fearing God, but the Dark Side of it turns upon them, who pro<g ref="char:EOLhyphen"/>voke him by the perpetual violation of his Law. Such as live Viciouſly, and in a daily contempt of his Juſt and Reaſonable Com<g ref="char:EOLhyphen"/>mands, as they are ſure of the Eye of Pro<g ref="char:EOLhyphen"/>vidence attending and viewing them, ſo they may as reaſonably expect the weight of his hand in their Puniſhment. <hi>Solomon</hi> tells us, <hi>Righteouſneſs exalteth a Nation, but Sin is the reproach of any People,</hi> Pro.
+14.34. There is nothing can put us within the com<g ref="char:EOLhyphen"/>paſs
+<pb n="28" facs="tcp:104757:17"/>of danger, but the Witneſs that our own Wickedneſs may bear againſt us in the pre<g ref="char:EOLhyphen"/>ſence of God. It is obſervable, that tho' <hi>Canaan</hi> had been moſt Faithfully and Ir<g ref="char:EOLhyphen"/>revocably promis'd to <hi>Abraham,</hi> yet his Poſterity could never diſpoſſeſs the preſent Inhabitants, till they <hi>had fill'd up the mea<g ref="char:EOLhyphen"/>ſures of their ſins,</hi> which was 400 Years after that Promiſe was made. And our Bleſſed Saviour, tho' he knew the fatal Period ap<g ref="char:EOLhyphen"/>pointed for <hi>Jeruſalem,</hi> yet he bids them <hi>even fill up the meaſure of their Fathers, Mat.</hi> 23.34. And this was forty years after they had committed that horrid Wickedneſs of cutting off their own <hi>Meſſiah.</hi> God forbid that we ſhould be eſteem'd by Providence, as having <hi>fill'd up our meaſures yet!</hi> But let me tell you, we live in an Age that ſeems conſi<g ref="char:EOLhyphen"/>derably ripen'd in the Exceſſes of Wickedneſs. An Age, wherein the ſerious part of Religion ſeems grown ſo much out of date and faſhion, that it becomes hardly worth the while ſo much as to diſſemble it. An Age, wherein men have no reluctancy of ſhewing the worſt ſide outermoſt, and the Formaliſt thinks fit to throw off all his Diſguiſes, when the Atheiſt can talk boldly, and the Hypo<g ref="char:EOLhyphen"/>crite looks upon his Viſors and Shapes of
+<pb n="29" facs="tcp:104757:17"/>Religion as too demure, and ſo, rather croſs than promote his Intereſt; when good men themſelves grow languid and remiſs, as to all the true Fervour of Religion; and ſee it ſo univerſally unpractis'd, that they have a kind of Modeſty and Reſtraint upon them<g ref="char:EOLhyphen"/>ſelves, as aſham'd to appear ſingular in the warm and devout part which every one Ri<g ref="char:EOLhyphen"/>dicules. O would God, that while the Rod is as yet but ſhaking over us, and the Cloud but riſing that threatens a Storm, we may awake from the Lethargick ſtate that we are in; we may argue our ſelves into a ſpeedy and Univerſal Reformation, from whatever Di<g ref="char:EOLhyphen"/>vine Providence hath diſcern'd amiſs in us. That our Prophaneneſs, contempt of Religi<g ref="char:EOLhyphen"/>on, Intemperance, Pride, Uncleaneſs, Op<g ref="char:EOLhyphen"/>preſſion, rending the Name of God with Oaths and direful Imprecations, neglect of his Worſhip, mutual Hatred and bitter Animo<g ref="char:EOLhyphen"/>ſities <hi>&amp;c.</hi> may no longer lay us open to the Vengeance of Heaven, that it break not out upon us, and <hi>there be no remedy.</hi> Thanks be to God, a juſt zeal for <hi>Truth</hi> and the <hi>ſimplicity of the Goſpel,</hi> hath of late ſomething reviv'd a<g ref="char:EOLhyphen"/>mongſt us, the dying Spark hath reinkindled, and took new flame from the oppoſition it hath met with; O that a new Zeal for <hi>the life
+<pb n="30" facs="tcp:104757:18" rendition="simple:additions"/>and Practice</hi> of that Holy Religion we profeſs, might revive too; that men would but gene<g ref="char:EOLhyphen"/>rally apply themſelves to <hi>live</hi> as they profeſs to
+<hi>believe,</hi> then might we expect to be the Darlings of Providence, we ſhould quickly then find him bringing Light out of our Darkneſs, Good out of our Evils, and Or<g ref="char:EOLhyphen"/>der out of all our threatned Confuſions.</p>
+            <p n="3">3. Having taken care by our Univerſal Re<g ref="char:EOLhyphen"/>pentance and Amendment of Life, to Entitle our ſelves to the peculiar care of Divine Pro<g ref="char:EOLhyphen"/>vidence, let us live upon the comforts of this Doctrine, that Providence doth concern it ſelf in the well-being of his Church. Let us truſt in God, and <hi>caſt all our care upon him who careth for us.</hi> Let us reſign our ſelves to his wiſe Conduct in all things, in <hi>patience poſ<g ref="char:EOLhyphen"/>ſeſſing our Souls,</hi> uſing all the means for our Peace and ſecurity that are warrantable and requir'd, leaving the whole Succeſs to him that Governs the World, who will take care of his own Glory, which ought to be our greateſt End, and will not fail in the Iſſue, to make us reap the Fruits of theſe our hum<g ref="char:EOLhyphen"/>ble dependances. <hi>Which God of his Infinite Mercy grant,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
